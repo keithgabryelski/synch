@@ -1,0 +1,26 @@
+{
+  "name": "synch",
+  "version": "1.0.0",
+  "description": "Synchronization primatives: spin-lock, barrier, guard for javascript",
+  "main": "./Synch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keithgabryelski/synch.git"
+  },
+  "keywords": [
+    "synch",
+    "javascript",
+    "spin-lock",
+    "barrier",
+    "guard"
+  ],
+  "author": "Keith Gabryelski <keith@gabryelski.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keithgabryelski/synch/issues"
+  },
+  "homepage": "https://github.com/keithgabryelski/synch#readme"
+}
